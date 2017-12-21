@@ -164,4 +164,4 @@ client.on('message', async message => {
 
 });
 
-client.login(config.token);
+client.login(process.env.token); //stop looking for my token >;(
