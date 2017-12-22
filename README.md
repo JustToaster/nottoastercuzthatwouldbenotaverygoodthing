@@ -1,2 +1,2 @@
 # nottoastercuzthatwouldbenotaverygoodthing
-WOW
+Please note this is an outdated version
