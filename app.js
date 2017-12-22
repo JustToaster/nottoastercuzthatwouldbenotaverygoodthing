@@ -164,4 +164,4 @@ client.on('message', async message => {
 
 });
 
-client.login(process.env.BOT_TOKEN); //stop looking for my token >;(
+//client.login(process.env.BOT_TOKEN); //stop looking for my token >;(
